@@ -2,11 +2,11 @@
 
 ## Descripción
 
-Aplicación web capaz de realizar operaciones matemáticas básicas como suma, resta, multiplicación y división.
+Calculadora web desarrollada como proyecto práctico para reforzar los conocimientos adquiridos en el módulo de Desarrollo Web. La aplicación permite realizar operaciones matemáticas básicas mediante una interfaz sencilla e intuitiva, ofreciendo una experiencia de uso clara y accesible para cualquier usuario.
 
 ## Contexto
 
-Proyecto desarrollado para practicar JavaScript, la manipulación del DOM y la gestión de eventos dentro del ciclo formativo de Desarrollo de Aplicaciones Web.
+La calculadora ha sido desarrollada como parte del proceso de aprendizaje en el Grado Superior de Desarrollo de Aplicaciones Web (DAW). Su objetivo principal es aplicar conocimientos de HTML, CSS y JavaScript en un proyecto práctico, trabajando la estructura de una aplicación web, el diseño de la interfaz y la implementación de funcionalidades mediante programación del lado del cliente.
 
 ## Tecnologías utilizadas
 
@@ -24,6 +24,17 @@ Proyecto desarrollado para practicar JavaScript, la manipulación del DOM y la g
 - Limpiar pantalla
 - Gestión básica de errores
 
+## Estructura del Proyecto
+
+```text
+calculadora-web/
+│
+├── index.html      
+├── main.css       
+├── script.js       
+└── README.md      
+```
+ 
 ## Cómo ejecutar
 
 1. Descargar o clonar el repositorio.
