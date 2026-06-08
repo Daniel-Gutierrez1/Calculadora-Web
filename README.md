@@ -30,7 +30,7 @@ La calculadora ha sido desarrollada como parte del proceso de aprendizaje en el 
 calculadora-web/
 │
 ├── index.html      
-├── style.css       
+├── main.css       
 ├── script.js       
 └── README.md      
 ```
