@@ -24,6 +24,13 @@ La calculadora ha sido desarrollada como parte del proceso de aprendizaje en el 
 - Limpiar pantalla
 - Gestión básica de errores
 
+# Estructura del proyecto
+calculadora-web/
+ │
+ ├── index.html
+ ├── style.css
+ └── script.js
+
 ## Cómo ejecutar
 
 1. Descargar o clonar el repositorio.
